@@ -1,2 +1,2 @@
 # angular-pizzeria
-Proyecto angular adaptación de frontend a angular
+Proyecto angular adaptación de frontend pizzeria a angular
